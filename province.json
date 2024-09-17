@@ -1,0 +1,14 @@
+{
+    "province_coordinates": {
+      "Eastern Cape": {"lat": -32.2968, "lon": 26.4194},
+      "Free State": {"lat": -28.4541, "lon": 26.7968},
+      "Gauteng": {"lat": -26.2041, "lon": 28.0473},
+      "KwaZulu-Natal": {"lat": -29.8587, "lon": 31.0218},
+      "Limpopo": {"lat": -23.4013, "lon": 29.4179},
+      "Mpumalanga": {"lat": -25.5650, "lon": 30.5277},
+      "Northern Cape": {"lat": -28.7281, "lon": 22.4482},
+      "North West": {"lat": -25.3559, "lon": 25.6419},
+      "Western Cape": {"lat": -33.9249, "lon": 18.4241}
+    }
+  }
+  
